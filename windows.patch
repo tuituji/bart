@@ -1,0 +1,22 @@
+Seems there is some problems with the window
+	by  tuituji zczhao2009@gmail.com
+--- kitchen/windows.aff	2000-05-31 05:03:07.000000000 +0800
++++ kitchen1/windows.aff	2014-08-01 14:40:26.225521691 +0800
+@@ -291,7 +291,7 @@ i 0 param_marble.aff
+ #marble slab, front
+ xs 1.0 1.0 1.0
+ -1.0 0.0 0.0 90.0
+-1.605 0.58 0.1
++1.605 1.16 0.1
+ {
+ 
+ m
+@@ -421,7 +421,7 @@ i 0 param_window.aff
+ #window, side, left
+ xs 1.0 1.0 1.0
+    0.0 -1.0 0.0 90.0
+-   1.0 1.25 0.85
++   1.5 1.5 -0.7
+ {
+ 
+ 
