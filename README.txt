@@ -32,10 +32,9 @@ cd ../kitchen
 
 output in directory image
 
-
 Make film:
 cd image
 convert *.ppm kitchen.mpg
 
 
-Still many works to do !!!
+!!!!Moving the camera is still not corret.
